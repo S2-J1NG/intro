@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "d94334f23acba022bfd68e49d76b31bb",
+      "css": "github-1",
+      "code": 62208,
+      "src": "entypo"
+    },
+    {
+      "uid": "ccc2329632396dc096bb638d4b46fb98",
+      "css": "mail-alt",
+      "code": 61664,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "3315691c918224dc4893f2e368a4e0c8",
+      "css": "vimeo",
+      "code": 59392,
+      "src": "typicons"
+    }
+  ]
+}
