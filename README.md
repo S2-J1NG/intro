@@ -2,6 +2,9 @@
 html과 css 이용하여 작성 [생활코딩 - 웹 레시피 편 참고]
  - html의 semantic 개념 실습을 통해 익힘
  - css stylesheet 작성 및 관리 실습
+ 
+ https://s2-j1ng.github.io/intro/
+ 
 
 ### 보완 사항
 - css에서 `@media`기능이 잘 구현되지 않음
